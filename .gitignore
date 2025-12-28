@@ -1,0 +1,19 @@
+# Raw data (never commit)
+data_raw/
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+.env
+
+# OS / Editor
+.DS_Store
+.vscode/
