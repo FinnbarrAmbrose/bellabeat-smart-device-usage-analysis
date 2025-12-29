@@ -152,14 +152,6 @@ It reflects how data analysis is applied in **real product and marketing environ
 
 ---
 
-## 📌 Status
-
-✅ Complete  
-📍 Portfolio-ready  
-📎 Suitable for Junior / Experienced Junior Data Analyst roles
-
----
-
 ## 👤 Author
 
 **Finnbarr Ambrose**  
